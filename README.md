@@ -4,11 +4,11 @@ This contains the code used for some 2D wave equation simulations used to invest
 Note that these simulations use the following libraries which need to be installed locally before running the Python scripts:
 numpy, pygame, pylab
 
-Symmetrical Sloshing Simulation:
-https://youtu.be/NCWnHEDbvAg
+2D Wave Equation Simulation in Python - Uneven Feed Well Sloshing:
+https://youtu.be/Thz90toWmeQ
 
-Uneven Sloshing Simulation:
-https://youtu.be/bxv12Irz2cc
+2D Wave Equation Simulation in Python - Symmetrical Feed Well Sloshing
+https://youtu.be/2-b7fwo8KZo
 
 There is also an option to output a 3D plot of the waves, by commenting/uncommenting out some sections, identified in the code already. 
 The 3D plots are slow to update due to coding inefficiencies, but they are still useful to consider. 
